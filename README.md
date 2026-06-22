@@ -1,31 +1,166 @@
-# 💫 About Me:
-A passionate Computer Science student from India, skilled in Python, databases, and full-stack development, eager to build impactful tech solutions and grow professionally.
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTE4OHF2czQxeWczc3I4cWxpcThnaGU4dmkyY3ltNGhidnRiM2xzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" alt="Developer Coding" width="450" />
+</div>
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hexcrystal69) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prayas-kar-712988232/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/HexCrystal69/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/www.twitch.tv/hexcrystal69) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hexcrystal69) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prayaskar024@gmail.com) 
+# Prayas Kar
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat-square&logo=nVIDIA&logoColor=green) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat-square&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat-square&logo=epicgames&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat-square&logo=xbox&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat-square&logo=Ubisoft&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=flat-square&logo=SONARLINT&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat-square&logo=ea&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat-square&logo=nVIDIA&logoColor=green) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat-square&logo=Playstation&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hexcrystal69&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hexcrystal69&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hexcrystal69&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+### AI/ML Engineer | Generative AI Developer | Data Engineering Enthusiast | Backend Systems Developer
+Building Scalable AI, Analytics, and Real-Time Data Platforms.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hexcrystal69&theme=aura_dark&no-frame=false&no-bg=true&margin-w=4)
+### About Me
+![Rainbow Bar](https://media.tenor.com/VptA9dWCM8AAAAAC/rainbow-bar.gif)![Rainbow Bar](https://media.tenor.com/VptA9dWCM8AAAAAC/rainbow-bar.gif)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+I am an AI/ML Engineer and Generative AI Developer with a deep interest in Data Engineering and Backend Systems. I specialize in designing and implementing end-to-end machine learning workflows, building scalable real-time analytics engines, and developing high-performance backend systems.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hexcrystal69&limit=5&theme=dark&combine_all_yearly_contributions=true)
+With experience spanning Generative AI (LLMs, prompt engineering, agentic systems), computer vision, and deep learning, I focus on creating production-ready solutions that integrate machine learning seamlessly into scalable backend architectures. I am passionate about data platforms, distributed streaming, and containerized deployment strategies.
 
----
-[![](https://visitcount.itsvg.in/api?id=hexcrystal69&icon=0&color=0)](https://visitcount.itsvg.in)
+- **Current Focus**: Designing scalable agentic AI systems, optimizing data pipelines, and building low-latency backend APIs.
+- **My Experience**: You can explore my background and resume [here](https://drive.google.com/file/d/1QfAnRYh9F8sY_lftM9FE5wFyKCrSsrKG/view?usp=sharing).
+- **Reach Out**: Feel free to contact me at **prayaskar024@gmail.com**.
 
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/patreon.com/HexCrystal) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/hexcrystal) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### Technical Stack
+![Rainbow Bar](https://media.tenor.com/VptA9dWCM8AAAAAC/rainbow-bar.gif)![Rainbow Bar](https://media.tenor.com/VptA9dWCM8AAAAAC/rainbow-bar.gif)
+
+### Languages
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
+  </a>
+</p>
+
+### AI, Machine Learning & Deep Learning
+<p align="left">
+  <a href="https://pytorch.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://keras.io" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=scikitlearn" alt="Scikit-Learn" width="40" height="40"/>
+  </a>
+  <a href="https://opencv.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="40" height="40"/>
+  </a>
+  <a href="https://huggingface.co" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" width="40" height="40"/>
+  </a>
+  <a href="https://ollama.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/ollama" alt="Ollama" width="40" height="40"/>
+  </a>
+</p>
+
+### Frameworks & Backend Systems
+<p align="left">
+  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=spring" alt="Spring" width="40" height="40"/>
+  </a>
+</p>
+
+### Data Engineering & Databases
+<p align="left">
+  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  </a>
+  <a href="https://matplotlib.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Seaborn" width="40" height="40"/>
+  </a>
+  <a href="https://kafka.apache.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=kafka" alt="Apache Kafka" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
+  </a>
+</p>
+
+### DevOps, Platforms & Tools
+<p align="left">
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://streamlit.io" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+  </a>
+</p>
+
+
+
+### Git Metrics and Analytics
+![Rainbow Bar](https://media.tenor.com/VptA9dWCM8AAAAAC/rainbow-bar.gif)![Rainbow Bar](https://media.tenor.com/VptA9dWCM8AAAAAC/rainbow-bar.gif)
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=HexCrystal69&show_icons=true&theme=tokyonight&count_private=true&hide_title=false" alt="GitHub Stats" width="400" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HexCrystal69&layout=compact&theme=tokyonight&hide_title=false" alt="Top Languages" width="400" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=HexCrystal69&theme=tokyonight" alt="GitHub Streak" width="815" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+### Connect with Me
+![Rainbow Bar](https://media.tenor.com/VptA9dWCM8AAAAAC/rainbow-bar.gif)![Rainbow Bar](https://media.tenor.com/VptA9dWCM8AAAAAC/rainbow-bar.gif)
+
+<p align="left">
+  <a href="https://github.com/HexCrystal69" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/prayas-kar" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://kaggle.com/prayaskar" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/HexCrystal69" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://hackerrank.com/pk8203" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/Prayas_Kar" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhkamUzNXhrM2JqZHMwNHB6enE3YWt3NXB4NndmcWZrc2FiM3k5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Efi4MpChuhHtm/giphy.gif" alt="Developer Coding" width="450" />
+</div>
+<p align="left"><i>Bye Bye</i></p>
