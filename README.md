@@ -5,8 +5,10 @@
 
 ### Prayas Kar
 
-### AI/ML Engineer | Generative AI Developer | Data Engineering Enthusiast | Backend Systems Developer
-Building Scalable AI, Analytics, and Real-Time Data Platforms.
+
+
+#### AI/ML Engineer | Generative AI Developer | Data Engineering Enthusiast | Backend Systems Developer
+#### Building Scalable AI, Analytics, and Real-Time Data Platforms.
 
 ### About Me
 ![Rainbow Bar](https://media.tenor.com/VptA9dWCM8AAAAAC/rainbow-bar.gif)
@@ -24,7 +26,7 @@ With experience spanning Generative AI (LLMs, prompt engineering, agentic system
 ### Technical Stack
 ![Rainbow Bar](https://media.tenor.com/VptA9dWCM8AAAAAC/rainbow-bar.gif)
 
-### Languages
+#### Languages
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
@@ -34,7 +36,7 @@ With experience spanning Generative AI (LLMs, prompt engineering, agentic system
   </a>
 </p>
 
-### AI, Machine Learning & Deep Learning
+#### AI, Machine Learning & Deep Learning
 <p align="left">
   <a href="https://pytorch.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40"/>
@@ -59,7 +61,7 @@ With experience spanning Generative AI (LLMs, prompt engineering, agentic system
   </a>
 </p>
 
-### Frameworks & Backend Systems
+#### Frameworks & Backend Systems
 <p align="left">
   <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40"/>
@@ -69,7 +71,7 @@ With experience spanning Generative AI (LLMs, prompt engineering, agentic system
   </a>
 </p>
 
-### Data Engineering & Databases
+#### Data Engineering & Databases
 <p align="left">
   <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
@@ -94,7 +96,7 @@ With experience spanning Generative AI (LLMs, prompt engineering, agentic system
   </a>
 </p>
 
-### DevOps, Platforms & Tools
+#### DevOps, Platforms & Tools
 <p align="left">
   <a href="https://www.docker.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
@@ -114,27 +116,6 @@ With experience spanning Generative AI (LLMs, prompt engineering, agentic system
 </p>
 
 
-
-### Git Metrics and Analytics
-![Rainbow Bar](https://media.tenor.com/VptA9dWCM8AAAAAC/rainbow-bar.gif)
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=HexCrystal69&show_icons=true&theme=tokyonight&count_private=true&hide_title=false" alt="GitHub Stats" width="400" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HexCrystal69&layout=compact&theme=tokyonight&hide_title=false" alt="Top Languages" width="400" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=HexCrystal69&theme=tokyonight" alt="GitHub Streak" width="815" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 ### Connect with Me
 ![Rainbow Bar](https://media.tenor.com/VptA9dWCM8AAAAAC/rainbow-bar.gif)
