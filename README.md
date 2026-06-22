@@ -3,13 +3,13 @@
 </div>
 
 
-# Prayas Kar
+### Prayas Kar
 
 ### AI/ML Engineer | Generative AI Developer | Data Engineering Enthusiast | Backend Systems Developer
 Building Scalable AI, Analytics, and Real-Time Data Platforms.
 
 ### About Me
-![Rainbow Bar](https://media.tenor.com/VptA9dWCM8AAAAAC/rainbow-bar.gif)![Rainbow Bar](https://media.tenor.com/VptA9dWCM8AAAAAC/rainbow-bar.gif)
+![Rainbow Bar](https://media.tenor.com/VptA9dWCM8AAAAAC/rainbow-bar.gif)
 
 I am an AI/ML Engineer and Generative AI Developer with a deep interest in Data Engineering and Backend Systems. I specialize in designing and implementing end-to-end machine learning workflows, building scalable real-time analytics engines, and developing high-performance backend systems.
 
@@ -22,7 +22,7 @@ With experience spanning Generative AI (LLMs, prompt engineering, agentic system
 
 
 ### Technical Stack
-![Rainbow Bar](https://media.tenor.com/VptA9dWCM8AAAAAC/rainbow-bar.gif)![Rainbow Bar](https://media.tenor.com/VptA9dWCM8AAAAAC/rainbow-bar.gif)
+![Rainbow Bar](https://media.tenor.com/VptA9dWCM8AAAAAC/rainbow-bar.gif)
 
 ### Languages
 <p align="left">
@@ -116,7 +116,7 @@ With experience spanning Generative AI (LLMs, prompt engineering, agentic system
 
 
 ### Git Metrics and Analytics
-![Rainbow Bar](https://media.tenor.com/VptA9dWCM8AAAAAC/rainbow-bar.gif)![Rainbow Bar](https://media.tenor.com/VptA9dWCM8AAAAAC/rainbow-bar.gif)
+![Rainbow Bar](https://media.tenor.com/VptA9dWCM8AAAAAC/rainbow-bar.gif)
 
 <div align="center">
   <table>
@@ -137,7 +137,7 @@ With experience spanning Generative AI (LLMs, prompt engineering, agentic system
 </div>
 
 ### Connect with Me
-![Rainbow Bar](https://media.tenor.com/VptA9dWCM8AAAAAC/rainbow-bar.gif)![Rainbow Bar](https://media.tenor.com/VptA9dWCM8AAAAAC/rainbow-bar.gif)
+![Rainbow Bar](https://media.tenor.com/VptA9dWCM8AAAAAC/rainbow-bar.gif)
 
 <p align="left">
   <a href="https://github.com/HexCrystal69" target="_blank" rel="noreferrer">
