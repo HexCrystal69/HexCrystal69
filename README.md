@@ -163,4 +163,4 @@ With experience spanning Generative AI (LLMs, prompt engineering, agentic system
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhkamUzNXhrM2JqZHMwNHB6enE3YWt3NXB4NndmcWZrc2FiM3k5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Efi4MpChuhHtm/giphy.gif" alt="Developer Coding" width="450" />
 </div>
-<p align="left"><i>Bye Bye</i></p>
+<p align="right"><i>Fair winds</i></p>
