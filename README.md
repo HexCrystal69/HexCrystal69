@@ -19,6 +19,7 @@ With experience spanning Generative AI (LLMs, prompt engineering, agentic system
 
 - **Current Focus**: Designing scalable agentic AI systems, optimizing data pipelines, and building low-latency backend APIs.
 - **My Experience**: You can explore my background and resume [here](https://drive.google.com/file/d/1dZuBDHdfOs1eZYlzUXcmYIOfN_HW-utP/view?usp=sharing).
+- **Portfolio**: Discover my technical stack, areas of expertise, featured technologies, and professional presence [here](https://prayaskar-portfolio.vercel.app/).
 - **Reach Out**: Feel free to contact me at **prayaskar024@gmail.com**.
 
 
