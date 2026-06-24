@@ -18,7 +18,7 @@ I am an AI/ML Engineer and Generative AI Developer with a deep interest in Data 
 With experience spanning Generative AI (LLMs, prompt engineering, agentic systems), computer vision, and deep learning, I focus on creating production-ready solutions that integrate machine learning seamlessly into scalable backend architectures. I am passionate about data platforms, distributed streaming, and containerized deployment strategies.
 
 - **Current Focus**: Designing scalable agentic AI systems, optimizing data pipelines, and building low-latency backend APIs.
-- **My Experience**: You can explore my background and resume [here](https://drive.google.com/file/d/1QfAnRYh9F8sY_lftM9FE5wFyKCrSsrKG/view?usp=sharing).
+- **My Experience**: You can explore my background and resume [here](https://drive.google.com/file/d/1dZuBDHdfOs1eZYlzUXcmYIOfN_HW-utP/view?usp=sharing).
 - **Reach Out**: Feel free to contact me at **prayaskar024@gmail.com**.
 
 
